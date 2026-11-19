@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.19)  19 NOV 2026 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.19)  19 NOV 2026 22:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -370,13 +370,13 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 Here is how much of TeX's memory you used:
  12339 strings out of 467870
  194886 string characters out of 5417870
- 675657 words of memory out of 5000000
+ 675651 words of memory out of 5000000
  40967 multiletter control sequences out of 15000+600000
  676886 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,10n,84p,1033b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Mehedi/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/Mehedi/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Mehedi/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/Mehedi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on CV.pdf (2 pages, 76706 bytes).
+Output written on CV.pdf (2 pages, 76292 bytes).
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
